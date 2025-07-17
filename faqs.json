@@ -1,0 +1,63 @@
+[
+    {
+      "id": "q1",
+      "q": "¿Cómo se gana en Catan?",
+      "a": "El primer jugador en alcanzar 10 puntos de victoria gana la partida.",
+      "keywords": ["victoria", "ganar", "puntos"]
+    },
+    {
+      "id": "q2",
+      "q": "¿Qué son los recursos en Catan?",
+      "a": "Los recursos son madera, ladrillo, lana, trigo y mineral. Se usan para construir y comerciar.",
+      "keywords": ["recursos", "materiales", "madera", "ladrillo", "trigo"]
+    },
+    {
+      "id": "q3",
+      "q": "¿Cómo consigo cartas de desarrollo?",
+      "a": "Puedes comprar una carta de desarrollo con una lana, un trigo y un mineral.",
+      "keywords": ["desarrollo", "carta", "comprar"]
+    },
+    {
+      "id": "q4",
+      "q": "¿Qué hace el ladrón?",
+      "a": "Cuando se lanza un 7, el ladrón se mueve a otro hexágono y bloquea la producción de ese recurso. También puedes robar una carta a un jugador adyacente.",
+      "keywords": ["ladrón", "bloquear", "robar", "7"]
+    },
+    {
+      "id": "q5",
+      "q": "¿Cómo construyo una ciudad?",
+      "a": "Necesitas 2 granos y 3 minerales para mejorar un asentamiento a ciudad.",
+      "keywords": ["ciudad", "construir", "mejorar"]
+    },
+    {
+      "id": "q6",
+      "q": "¿Qué hace la carta de caballero?",
+      "a": "Te permite mover al ladrón. Tres o más caballeros te dan el ejército más grande (2 puntos).",
+      "keywords": ["caballero", "carta", "ladrón", "ejército"]
+    },
+    {
+      "id": "q7",
+      "q": "¿Puedo construir carreteras seguidas?",
+      "a": "Sí, siempre que estén conectadas y no haya construcciones de otros jugadores entre medio.",
+      "keywords": ["carretera", "construir", "camino"]
+    },
+    {
+      "id": "q8",
+      "q": "¿Cómo se reparten los recursos?",
+      "a": "Cuando se lanza un dado, todos los hexágonos con ese número producen recursos para los jugadores con asentamientos o ciudades adyacentes.",
+      "keywords": ["repartir", "recursos", "dados", "hexágonos"]
+    },
+    {
+      "id": "q9",
+      "q": "¿Qué es el camino más largo?",
+      "a": "Es una cadena continua de al menos 5 carreteras. Otorga 2 puntos de victoria.",
+      "keywords": ["camino más largo", "carretera", "puntos"]
+    },
+    {
+      "id": "q10",
+      "q": "¿Qué pasa si me quedo sin cartas al lanzar un 7?",
+      "a": "Si tienes más de 7 cartas y se lanza un 7, debes descartar la mitad (redondeando hacia abajo).",
+      "keywords": ["7", "descartar", "cartas", "regla"]
+    }
+  ]
+  
